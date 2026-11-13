@@ -1,4 +1,4 @@
-<a href="https://www.frankk.dev"><img src="https://www.frankk.dev/me/opengraph-image.png" alt="frankk.dev" width="100%"></a>
+<a href="https://www.frankk.dev"><img src="https://www.frankk.dev/readme/banner.png" alt="frankk.dev" width="480"></a>
 
 Software developer based in London. Working across design, technology and the web, building digital products and experiences with a focus on considered design and interaction.
 
@@ -8,19 +8,19 @@ Software developer based in London. Working across design, technology and the we
 
 ### Selected work
 
-<a href="https://revukit.com"><img src="https://www.frankk.dev/revukit-share.jpg" alt="RevuKit" width="100%"></a>
+<a href="https://revukit.com"><img src="https://www.frankk.dev/readme/revukit.png" alt="RevuKit" width="320"></a>
 
 **[RevuKit](https://revukit.com)** ↗
 
 Customisable Google Reviews widgets and Instagram feeds for modern websites, with a focus on design flexibility and seamless integration.
 
-<a href="https://www.revukit.com/piper"><img src="https://www.frankk.dev/piper.webp" alt="Piper AI" width="100%"></a>
+<a href="https://www.revukit.com/piper"><img src="https://www.frankk.dev/readme/piper.png" alt="Piper AI" width="320"></a>
 
 **[Piper AI](https://www.revukit.com/piper)** ↗
 
 A helpful AI assistant, built to understand site content, guide visitors and capture enquiries. *In development.*
 
-<a href="https://taskowl.me/"><img src="https://www.frankk.dev/taskowl.webp" alt="TaskOwl" width="100%"></a>
+<a href="https://taskowl.me/"><img src="https://www.frankk.dev/readme/taskowl.png" alt="TaskOwl" width="320"></a>
 
 **[TaskOwl](https://taskowl.me/)** ↗
 
