@@ -1,8 +1,6 @@
 # frankk.dev
 
-Independent developer based in London.
-
-Working across design, technology and the web. Building digital products, tools and experiences with a focus on considered design and interaction.
+Independent developer based in London. Working across design, technology and the web, building digital products and experiences with a focus on considered design and interaction.
 
 [Website](https://frankk.dev) ↗
 
@@ -10,42 +8,23 @@ Working across design, technology and the web. Building digital products, tools 
 
 ### Selected work
 
-#### [RevuKit](https://revukit.com) ↗
+**[RevuKit](https://revukit.com)** ↗  
+Customisable Google Reviews widgets and Instagram feeds for modern websites, with a focus on design flexibility and seamless integration.
 
-A collection of tools for bringing reviews and social content into modern websites.
+**[Piper AI](https://www.revukit.com/piper)**  
+An AI assistant for Framer websites, built to understand site content, guide visitors and capture enquiries. *In development.*
 
-- **Google Reviews** — Customisable review widgets for Framer, Webflow and WordPress. Grids, carousels and interactive layouts designed to feel native to any website.
-- **Instagram Feed** — Flexible Instagram galleries for Framer, with custom layouts, carousels and responsive designs.
-- **TripAdvisor Reviews** — Bringing customer reviews into websites through customisable, design-focused components.
-
-#### Piper AI
-
-An AI assistant built specifically for Framer websites.
-
-Designed to understand a site's content, pages and CMS collections. Helping visitors find relevant information, explore projects and make enquiries through natural conversations.
+**[TaskOwl](https://taskowl.me/)**  
+A task management application for organising projects, priorities and everyday work.
 
 ---
 
 ### Technologies
 
-**Languages & Frameworks**
+**Frontend** · TypeScript, JavaScript, React, Next.js, Tailwind CSS
 
-TypeScript · JavaScript · React · Next.js · Node.js · HTML · CSS · Tailwind CSS
+**Creative** · WebGL, PixiJS, GSAP, Framer Motion, Canvas API
 
-**Creative Development & Animation**
+**Backend & Data** · Node.js, Firebase, Supabase, PostgreSQL, Redis, GraphQL, Stripe
 
-WebGL · PixiJS · GSAP · Framer Motion · Canvas API
-
-**Backend & Data**
-
-Firebase · Firestore · Supabase · PostgreSQL · Redis · GraphQL · REST APIs · Stripe
-
-**Cloud, Infrastructure & Tooling**
-
-AWS · Vercel · Git · Bun · Vite · Playwright · Cypress
-
----
-
-### Elsewhere
-
-[frankk.dev](https://frankk.dev) · [revukit.com](https://revukit.com)
+**Infrastructure & Tooling** · AWS, Vercel, Bun, Vite, Playwright, Cypress
