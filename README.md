@@ -7,12 +7,15 @@ Software developer based in London. Working across design, technology and the we
 ### Selected work
 
 **[RevuKit](https://revukit.com)** ↗  
+
 Customisable Google Reviews widgets and Instagram feeds for modern websites, with a focus on design flexibility and seamless integration.
 
 **[Piper AI](https://www.revukit.com/piper)** ↗  
+
 An AI assistant for Framer websites, built to understand site content, guide visitors and capture enquiries. *In development.*
 
 **[TaskOwl](https://taskowl.me/)** ↗ 
+
 A task management application for organising projects, priorities and everyday work.
 
 ---
