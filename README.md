@@ -12,7 +12,7 @@ Customisable Google Reviews widgets and Instagram feeds for modern websites, wit
 
 **[Piper AI](https://www.revukit.com/piper)** ↗  
 
-An AI assistant for Framer websites, built to understand site content, guide visitors and capture enquiries. *In development.*
+A helpful AI assistant, built to understand site content, guide visitors and capture enquiries. *In development.*
 
 **[TaskOwl](https://taskowl.me/)** ↗ 
 
