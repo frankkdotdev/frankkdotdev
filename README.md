@@ -1,6 +1,4 @@
-# frankk.dev
-
-Independent developer based in London. Working across design, technology and the web, building digital products and experiences with a focus on considered design and interaction.
+Software developer based in London. Working across design, technology and the web, building digital products and experiences with a focus on considered design and interaction.
 
 [Website](https://frankk.dev) ↗
 
