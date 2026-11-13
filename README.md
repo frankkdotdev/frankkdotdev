@@ -1,20 +1,28 @@
+<a href="https://www.frankk.dev"><img src="https://www.frankk.dev/me/opengraph-image.png" alt="frankk.dev" width="100%"></a>
+
 Software developer based in London. Working across design, technology and the web, building digital products and experiences with a focus on considered design and interaction.
 
-[Website](https://frankk.dev) ↗
+[Website](https://www.frankk.dev) ↗
 
 ---
 
 ### Selected work
 
-**[RevuKit](https://revukit.com)** ↗  
+<a href="https://revukit.com"><img src="https://www.frankk.dev/revukit-share.jpg" alt="RevuKit" width="100%"></a>
+
+**[RevuKit](https://revukit.com)** ↗
 
 Customisable Google Reviews widgets and Instagram feeds for modern websites, with a focus on design flexibility and seamless integration.
 
-**[Piper AI](https://www.revukit.com/piper)** ↗  
+<a href="https://www.revukit.com/piper"><img src="https://www.frankk.dev/piper.webp" alt="Piper AI" width="100%"></a>
+
+**[Piper AI](https://www.revukit.com/piper)** ↗
 
 A helpful AI assistant, built to understand site content, guide visitors and capture enquiries. *In development.*
 
-**[TaskOwl](https://taskowl.me/)** ↗ 
+<a href="https://taskowl.me/"><img src="https://www.frankk.dev/taskowl.webp" alt="TaskOwl" width="100%"></a>
+
+**[TaskOwl](https://taskowl.me/)** ↗
 
 A task management application for organising projects, priorities and everyday work.
 
