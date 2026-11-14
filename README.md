@@ -33,14 +33,3 @@ A task management application for organising projects, priorities and everyday w
 
 ---
 
-### Technologies
-
-**Frontend** · TypeScript, JavaScript, React, Next.js, Tailwind CSS
-
-**AI** · LLM-powered products and assistants, retrieval-augmented generation (RAG), grounded answers from your own content, OpenAI API
-
-**Creative** · WebGL, PixiJS, GSAP, Framer Motion, Canvas API
-
-**Backend & Data** · Node.js, Firebase, Supabase, PostgreSQL, Redis, GraphQL, Stripe
-
-**Infrastructure & Tooling** · AWS, Vercel, Bun, Vite, Playwright, Cypress
