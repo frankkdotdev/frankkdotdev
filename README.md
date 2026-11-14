@@ -1,4 +1,4 @@
-<a href="https://www.frankk.dev"><img src="https://www.frankk.dev/readme/banner.svg" alt="frankk.dev: Frank McNulty, front-end developer in London" width="100%"></a>
+<a href="https://www.frankk.dev"><img src="https://www.frankk.dev/readme/banner.svg" alt="frankk.dev: Frank McNulty, full-stack engineer in London" width="640"></a>
 
 Software developer based in London. Working across design, technology and the web, building digital products and experiences with a focus on considered design and interaction.
 
@@ -6,7 +6,7 @@ Software developer based in London. Working across design, technology and the we
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.frankk.dev/readme/readout-dark.svg">
-  <img src="https://www.frankk.dev/readme/readout-light.svg" alt="Available for contract roles. Senior front-end engineer, five years across agency, product and SaaS teams, based in London." width="100%">
+  <img src="https://www.frankk.dev/readme/readout-light.svg" alt="Available for contract roles. Senior full-stack engineer, five years across agency, product and SaaS teams, building across frontend, AI, creative and backend, based in London." width="100%">
 </picture>
 
 ---
@@ -36,6 +36,8 @@ A task management application for organising projects, priorities and everyday w
 ### Technologies
 
 **Frontend** · TypeScript, JavaScript, React, Next.js, Tailwind CSS
+
+**AI** · LLM-powered products and assistants, retrieval-augmented generation (RAG), grounded answers from your own content, OpenAI API
 
 **Creative** · WebGL, PixiJS, GSAP, Framer Motion, Canvas API
 
